@@ -1,0 +1,10 @@
+/*programa: Holmundo */
+#include <conio.h>
+#include <stdio.h>
+int main()
+{
+printf( "Hola mundo. Juan Antonio Cruz Rodriguez
+getch();
+/* pause */
+return 0;
+}
